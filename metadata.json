@@ -1,0 +1,6 @@
+{
+  "name": "SPEECH COACH – Latihan Pidato Hari Pahlawan 2026",
+  "description": "Aplikasi interaktif pelatih pidato pembina upacara Hari Pahlawan 10 November 2026 untuk Bu Ruri Okvawani di SMAS Tunas Baru Jin Seung Batam dengan fitur TTS, panduan ekspresi, teleprompter, dan mode hafalan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
